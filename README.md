@@ -131,7 +131,7 @@ Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9
 
 ## Materials and Methods
 
-This paper proposes a database aiming at the classification of 32-bit benign and malware executables. The database is referred to as REWEMA (Retrieval of 32-bit Windows Architecture Executables Applied to Malware Analysis). There are 426 malicious executables, and 426 other benign executables. Therefore, the REWEMA base is suitable for learning with artificial intelligence, since both classes of executables have the same amount.
+This paper proposes a database aiming at the classification of 32-bit benign and malware executables. There are 426 malicious executables, and 426 other benign executables. Therefore, our dataset is suitable for learning with artificial intelligence, since both classes of executables have the same amount.
 
 Virtual plagues were extracted from databases provided by enthusiastic study groups as VirusShare. As for benign executables, the acquisition came from benign applications repositories such as sourceforge, github and sysinternals. It should be noted that all benign executables were submitted to VirusTotal and all were its benign attested by the main commercial antivirus worldwide. The diagnostics, provided by VirusTotal, corresponding to the benign and malware executables are available in the virtual address of our database.
 
