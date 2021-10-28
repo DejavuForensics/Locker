@@ -40,7 +40,7 @@ It is included as adversity, in the combat to malicious applications, the fact o
 
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
-ESET-NOD32 95.77 4.23 0
+ESET-NOD32| 95.77%| 4.23%| 0%|
 MAX 95.54 4.23 0.23
 AVG 95.07 2.35 2.58
 McAfee 94.84 4.46 0.7
@@ -124,9 +124,12 @@ Trustlook 0 0.23 99.77
 
 ###### Table 3 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_001627d61a1bde3478ca4965e738dc1e | VirusShare_075efef8c9ca2f675be296d5f56406fa | VirusShare_0dab86f850fd3dafc98d0f2b401377d5
+Antivírus | VirusShare_0019ac218066b4b77971562d553a9a49 | VirusShare_00462daad93d1950efb7685771793a9f |VirusShare_00cb45c4efd4053cef8bb8567dc0638e
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
-
+Bkav| W32.AIDetect.malware1 | W32.Common.E76E62C6 |
+Lionic | benign | benign | 
+Elastic | malicious (high confidence) | benign
+"MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
 
 
 ## Materials and Methods
