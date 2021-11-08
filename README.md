@@ -41,7 +41,7 @@ It is included as adversity, in the combat to malicious applications, the fact o
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
 ESET-NOD32| 95.77%| 4.23%| 0%|
-MAX 95.54 4.23 0.23
+MAX| 95.54%| 4.23%| 0.23%|
 AVG 95.07 2.35 2.58
 McAfee 94.84 4.46 0.7
 NANO-Antivirus 94.84 5.16 0
@@ -127,10 +127,11 @@ Trustlook 0 0.23 99.77
 Antivírus | VirusShare_0019ac218066b4b77971562d553a9a49 | VirusShare_00462daad93d1950efb7685771793a9f |VirusShare_00cb45c4efd4053cef8bb8567dc0638e
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
 Bkav| W32.AIDetect.malware1 | W32.Common.E76E62C6 |
-Lionic | benign | benign | 
-Elastic | malicious (high confidence) | benign
-"MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
-
+Lionic | False Negative | False Negative | 
+Elastic | malicious (high confidence) | False Negative
+MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
+FireEye | Generic.mg.0019ac218066b4b7 | Generic.mg.00462daad93d1950
+CAT-QuickHeal | Trojan.Urausy.C
 
 ## Materials and Methods
 
