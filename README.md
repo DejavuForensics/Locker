@@ -36,7 +36,7 @@ On average, the antiviruses were missing in 13.91% of the cases, with a standard
 It is included as adversity, in the combat to malicious applications, the fact of the commercial antiviruses do not possess a pattern in the classification of the malwares as seen in Table 2. We choose 3 of 426 malwares samples in order to exemplify the miscellaneous classifications of commercial antiviruses. In this way, the time when manufacturers react to a new virtual plague is affected dramatically. As there is no a pattern, antiviruses give the names that they want, for example, a company can identify a malware as "Malware.1" and a second company identify it as "Malware12310". Therefore, the lack of a pattern, besides the no-sharing of information among the antivirus manufacturers, hinders the fast and effective detection of a malicious application.
 
 
-###### Table 2 Results of 81 commercial antiviruses:
+###### Table 1 Results of 81 commercial antiviruses:
 
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
@@ -122,7 +122,7 @@ Avast-Mobile 0 23.47 76.53
 Babable 0 0.7 99.3
 Trustlook 0 0.23 99.77
 
-###### Table 3 Miscellaneous classifications of commercial antiviruses:
+###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
 Antivírus | VirusShare_0019ac218066b4b77971562d553a9a49 | VirusShare_00462daad93d1950efb7685771793a9f |VirusShare_00cb45c4efd4053cef8bb8567dc0638e
 --------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
