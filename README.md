@@ -132,6 +132,8 @@ Elastic | malicious (high confidence) | False Negative
 MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
 FireEye | Generic.mg.0019ac218066b4b7 | Generic.mg.00462daad93d1950
 CAT-QuickHeal | Trojan.Urausy.C
+McAfee | Fake-SecTool!0019AC218066 |
+Cylance | Cylance
 
 ## Materials and Methods
 
