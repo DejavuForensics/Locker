@@ -99,7 +99,7 @@ Elastic |62.44 |12.68 |24.88|
 Acronis |61.03 |38.97 |0|
 ClamAV |60.8 |38.5 |0.7|
 SUPERAntiSpyware |60.09 |39.91| 0|
-Kingsoft |43.66 |52.58 3.76|
+Kingsoft |43.66 |52.58| 3.76|
 ZoneAlarm |43.43 |55.4 |1.17|
 TACHYON |41.31| 58.69| 0|
 Antiy-AVL |40.61 |55.63 |3.76|
