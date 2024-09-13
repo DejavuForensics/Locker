@@ -40,20 +40,20 @@ It is included as adversity, in the combat to malicious applications, the fact o
 
 Antivirus | Deteccion (%) | False Negative (%) | Omission (%)
 --------- | ------------- | ------------------ | -------------
-ESET-NOD32| 95.77%| 4.23%| 0%|
-MAX| 95.54%| 4.23%| 0.23%|
+ESET-NOD32 | 95.77| 4.23| 0|
+MAX | 95.54| 4.23| 0.23|
 AVG | 95.07 | 2.35 | 2.58|
-McAfee 94.84 4.46 0.7
-NANO-Antivirus 94.84 5.16 0
-Panda 94.6 5.4 0
-FireEye 94.6 3.52 1.88
-Alibaba 94.37 5.63 0
-Cylance 94.37 2.58 3.05
-BitDefender 94.37 5.63 0
-K7GW 94.37 5.63 0
-K7AntiVirus 94.13 5.87 0
-MicroWorld-eScan 94.13 5.87 0
-Comodo 93.9 5.16 0.94
+McAfee | 94.84 | 4.46 | 0.7|
+NANO-Antivirus | 94.84 | 5.16 | 0|
+Panda | 94.6 | 5.4 | 0|
+FireEye | 94.6 | 3.52 | 1.88|
+Alibaba | 94.37 | 5.63 | 0|
+Cylance | 94.37 | 2.58 | 3.05|
+BitDefender | 94.37 | 5.63 | 0|
+K7GW | 94.37 | 5.63 | 0|
+K7AntiVirus | 94.13 | 5.87 | 0|
+MicroWorld-eScan | 94.13 | 5.87 | 0|
+Comodo | 93.9 | 5.16 | 0.94|
 Kaspersky 93.66 5.63 0.7
 GData 93.19 5.63 1.17
 VIPRE 93.19 4.23 2.58
