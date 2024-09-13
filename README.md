@@ -54,26 +54,26 @@ K7GW | 94.37 | 5.63 | 0|
 K7AntiVirus | 94.13 | 5.87 | 0|
 MicroWorld-eScan | 94.13 | 5.87 | 0|
 Comodo | 93.9 | 5.16 | 0.94|
-Kaspersky 93.66 5.63 0.7
-GData 93.19 5.63 1.17
-VIPRE 93.19 4.23 2.58
-Fortinet 92.96 6.1 0.94
-VBA32 92.96 7.04 0
-Avira 92.72 7.28 0
-Microsoft 92.72 6.57 0.7
-Emsisoft 92.72 6.81 0.47
-Avast 92.49 5.63 1.88
-APEX 92.49 7.51 0
-Ad-Aware 92.25 7.51 0.23
-DrWeb 92.25 7.75 0
-Sophos 92.02 6.81 1.17
-Zillya 91.08 8.69 0.23
-Ikarus 90.85 2.35 6.81
-AhnLab-V3 90.38 9.62 0
-Qihoo-360 89.44 10.56 0
-Jiangmin 88.26 10.8 0.94
-McAfee-GW-Edition 88.03 1.88 10.09
-SentinelOne 87.56 11.5 0.94
+Kaspersky | 93.66 | 5.63 | 0.7|
+GData | 93.19 | 5.63 | 1.17|
+VIPRE | 93.19 | 4.23 | 2.58|
+Fortinet | 92.96 | 6.1 | 0.94|
+VBA32 | 92.96 | 7.04 | 0|
+Avira | 92.72 | 7.28 | 0|
+Microsoft | 92.72 | 6.57 | 0.7 |
+Emsisoft | 92.72 | 6.81 | 0.47|
+Avast | 92.49 | 5.63 | 1.88|
+APEX | 92.49 | 7.51 | 0|
+Ad-Aware | 92.25 | 7.51 | 0.23|
+DrWeb | 92.25 | 7.75 | 0|
+Sophos | 92.02 | 6.81 | 1.17|
+Zillya | 91.08 | 8.69 | 0.23|
+Ikarus | 90.85 | 2.35 | 6.81|
+AhnLab-V3 | 90.38 | 9.62 | 0|
+Qihoo-360 | 89.44 | 10.56 | 0|
+Jiangmin | 88.26 | 10.8 | 0.94|
+McAfee-GW-Edition | 88.03 | 1.88 | 10.09|
+SentinelOne |87.56 |11.5 |0.94|
 Rising 87.32 11.5 1.17
 CrowdStrike 87.32 12.68 0
 ALYac 86.85 7.51 5.63
