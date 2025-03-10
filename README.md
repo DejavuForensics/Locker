@@ -124,8 +124,8 @@ Trustlook |0 |0.23 |99.77|
 
 ###### Table 2 Miscellaneous classifications of commercial antiviruses:
 
-Antivírus | VirusShare_0019ac218066b4b77971562d553a9a49 | VirusShare_00462daad93d1950efb7685771793a9f |VirusShare_00cb45c4efd4053cef8bb8567dc0638e
---------- | ------------------------------------------- | ------------------------------------------- | --------------------------------------------
+Antivírus | VirusShare_0019ac218066b4b77971562d553a9a49 | VirusShare_00462daad93d1950efb7685771793a9f 
+--------- | ------------------------------------------- | ------------------------------------------- 
 Bkav| W32.AIDetect.malware1 | W32.Common.E76E62C6 |
 Lionic | False Negative | False Negative | 
 Elastic | malicious (high confidence) | False Negative
@@ -133,7 +133,10 @@ MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
 FireEye | Generic.mg.0019ac218066b4b7 | Generic.mg.00462daad93d1950
 CAT-QuickHeal | Trojan.Urausy.C
 McAfee | Fake-SecTool!0019AC218066 |
-Cylance | Cylance
+Cylance | Unsafe |
+Zillya | Trojan.Kryptik.Win32.877198 |
+
+
 
 ## Materials and Methods
 
