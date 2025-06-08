@@ -135,6 +135,23 @@ CAT-QuickHeal | Trojan.Urausy.C
 McAfee | Fake-SecTool!0019AC218066 |
 Cylance | Unsafe |
 Zillya | Trojan.Kryptik.Win32.877198 |
+Sangfor | Trojan.Win32.Save.a | 
+K7AntiVirus | Trojan ( 0040f4ce1 ) | 
+Alibaba | Ransom:Win32/Urausy.5a6dec93 | 
+K7GW | Trojan ( 0040f4ce1 ) | 
+CrowdStrike | win/malicious_confidence_60% (D) | 
+Baidu | null | 
+Cyren | W32/FakeAlert.WR.gen!Eldorado | 
+Symantec | Packed.Generic.417 |
+TotalDefense | null |
+APEX | Malicious |
+Paloalto | null |
+ClamAV | Win.Ransomware.Generickdz-9652427-0 | 
+Kaspersky | HEUR:Trojan.Win32.Generic | 
+BitDefender | Gen:Heur.VIZ.8 |
+NANO-Antivirus | Trojan.Win32.Winlock.bxpxlz |
+SUPERAntiSpyware | Trojan.Agent/Gen-Urausy" | 
+
 
 
 
