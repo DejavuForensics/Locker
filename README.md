@@ -131,71 +131,71 @@ Lionic | False Negative | False Negative |
 Elastic | malicious (high confidence) | False Negative
 MicroWorld-eScan | en:Heur.VIZ.8 | Gen:Variant.Zusy.346759
 FireEye | Generic.mg.0019ac218066b4b7 | Generic.mg.00462daad93d1950
-CAT-QuickHeal | Trojan.Urausy.C
-McAfee | Fake-SecTool!0019AC218066 |
-Cylance | Unsafe |
-Zillya | Trojan.Kryptik.Win32.877198 |
-Sangfor | Trojan.Win32.Save.a | 
-K7AntiVirus | Trojan ( 0040f4ce1 ) | 
-Alibaba | Ransom:Win32/Urausy.5a6dec93 | 
-K7GW | Trojan ( 0040f4ce1 ) | 
-CrowdStrike | win/malicious_confidence_60% (D) | 
-Baidu | null | 
-Cyren | W32/FakeAlert.WR.gen!Eldorado | 
-Symantec | Packed.Generic.417 |
-TotalDefense | null |
-APEX | Malicious |
-Paloalto | null |
-ClamAV | Win.Ransomware.Generickdz-9652427-0 | 
-Kaspersky | HEUR:Trojan.Win32.Generic | 
-BitDefender | Gen:Heur.VIZ.8 |
-NANO-Antivirus | Trojan.Win32.Winlock.bxpxlz |
-SUPERAntiSpyware | Trojan.Agent/Gen-Urausy | 
-Tencent | Win32.Trojan.Generic.Kf | 
-Ad-Aware | Gen:Heur.VIZ.8 | 
-Sophos | Mal/Generic-R + Troj/Agent-ABXG | 
-Comodo | TrojWare.Win32.Kryptik.BCDZ@4xptxy |
-F-Secure | null |
-DrWeb | Trojan.Winlock.8128 | 
-VIPRE | rojan.Win32.FakeAV.ka (v) |
-TrendMicro | TROJ_RANSOM.SMMA | 
-McAfee-GW-Edition | Fake-SecTool!0019AC218066 |
-CMC | null | 
-Emsisoft | Gen:Heur.VIZ.8 (B) | 
-SentinelOne | null |
-GData | Gen:Heur.VIZ.8 | 
-Jiangmin | Trojan/Generic.awvch |
-eGambit | Generic.Malware |
-Avira | TR/Kryptik.10240021 |
-MAX | malware (ai score=100) |
-Antiy-AVL | null | 
-Gridinsoft | null |
-Arcabit | Trojan.VIZ.8 |
-ViRobot | null |
-ZoneAlarm | null |
-Microsoft | VirTool:Win32/Obfuscator.AFQ |
-VirTool:Win32/Obfuscator.AFQ | Malicious (score: 100) |
-AhnLab-V3 | Trojan/Win32.FakeAV.R67537 | 
-Acronis | suspicious | 
-BitDefenderTheta | Gen:NN.ZexaF.34628.gqW@aWwTzjbi | 
-ALYac | Gen:Heur.VIZ.8 | 
-TACHYON | null | 
-VBA32 | Hoax.Foreign | 
-Malwarebytes | Trojan.FakeAlert.RGenX |
-Panda | Trj/Resdec.HEU" | 
-Zoner | null |
-ESET-NOD32 | a variant of Win32/Kryptik.BBVL |
-TrendMicro-HouseCall | TROJ_RANSOM.SMMA | 
-Rising | Trojan.Agent!1.69AD (CLOUD) | 
-Yandex | Trojan.Foreign!wxrnt4VWj/o | 
-Ikarus | Trojan.Win32.FakeAV |
-MaxSecure | null |
-Fortinet | W32/FakeAV.SE!tr | 
-Webroot | null |
-AVG | Win32:LockScreen-YI [Trj] |
-Cybereason | malicious.18066b | 
-Avast | Win32:LockScreen-YI [Trj] |
-Qihoo-360 | Win32/Ransom.Urausy.HgAASQkA |
+CAT-QuickHeal | Trojan.Urausy.C | Ransom.Teerac.A5
+McAfee | Fake-SecTool!0019AC218066 | Ransom-FXH!00462DAAD93D
+Cylance | Unsafe | Unsafe
+Zillya | Trojan.Kryptik.Win32.877198 | Trojan.Crypren.Win32.128
+Sangfor | Trojan.Win32.Save.a | Trojan.Win32.Save.a
+K7AntiVirus | Trojan ( 0040f4ce1 ) | Trojan ( 004b6eb81 )
+Alibaba | Ransom:Win32/Urausy.5a6dec93 | Ransom:Win32/Teerac.1237ffb7
+K7GW | Trojan ( 0040f4ce1 ) | Trojan ( 004b6eb81 )
+CrowdStrike | win/malicious_confidence_60% (D) | win/malicious_confidence_90% (D)
+Baidu | null | null
+Cyren | W32/FakeAlert.WR.gen!Eldorado | W32/Trojan.INEX-7006
+Symantec | Packed.Generic.417 | Ransom.Enciphered
+TotalDefense | null | null
+APEX | Malicious | Malicious
+Paloalto | null | null
+ClamAV | Win.Ransomware.Generickdz-9652427-0 | Win.Dropper.Zeus-9819554-0
+Kaspersky | HEUR:Trojan.Win32.Generic | HEUR:Trojan.Win32.Generic
+BitDefender | Gen:Heur.VIZ.8 | Gen:Variant.Zusy.346759
+NANO-Antivirus | Trojan.Win32.Winlock.bxpxlz | Trojan.Win32.Crypren.dohvff
+SUPERAntiSpyware | Trojan.Agent/Gen-Urausy | Ransom.CryptoLocker/Variant
+Tencent | Win32.Trojan.Generic.Kf | Malware.Win32.Gencirc.114cb29d
+Ad-Aware | Gen:Heur.VIZ.8 | Gen:Variant.Zusy.346759
+Sophos | Mal/Generic-R + Troj/Agent-ABXG | Mal/Generic-R + Troj/Agent-ALVR
+Comodo | TrojWare.Win32.Kryptik.BCDZ@4xptxy | Malware@#yz5i922bluzr
+F-Secure | null | Heuristic.HEUR/AGEN.1113570
+DrWeb | Trojan.Winlock.8128 | Trojan.Encoder.761
+VIPRE | rojan.Win32.FakeAV.ka (v) | Trojan.Win32.Generic!BT
+TrendMicro | TROJ_RANSOM.SMMA | TROJ_FORUCON.BME
+McAfee-GW-Edition | Fake-SecTool!0019AC218066 | Ransom-FXH!00462DAAD93D
+CMC | null | null
+Emsisoft | Gen:Heur.VIZ.8 (B) | Gen:Variant.Zusy.346759 (B)
+SentinelOne | null | Static AI - Suspicious PE
+GData | Gen:Heur.VIZ.8 | Gen:Variant.Zusy.346759
+Jiangmin | Trojan/Generic.awvch | null
+eGambit | Generic.Malware | Generic.Malware
+Avira | TR/Kryptik.10240021 | HEUR/AGEN.1113570
+MAX | malware (ai score=100) | malware (ai score=100)
+Antiy-AVL | null | Trojan[Backdoor]/Win32.Androm
+Gridinsoft | null | null
+Arcabit | Trojan.VIZ.8 | Trojan.Zusy.D54A87
+ViRobot | null | Trojan.Win32.Agent.100864.S
+ZoneAlarm | null | HEUR:Trojan.Win32.Generic
+Microsoft | VirTool:Win32/Obfuscator.AFQ | Ransom:Win32/Teerac.A
+Cynet | VirTool:Win32/Obfuscator.AFQ | Malicious (score: 100) |
+AhnLab-V3 | Trojan/Win32.FakeAV.R67537 | Trojan/Win32.ZBot.C733492
+Acronis | suspicious | null
+BitDefenderTheta | Gen:NN.ZexaF.34628.gqW@aWwTzjbi | Gen:NN.ZexaF.34628.Eu0@aC!5Sepi
+ALYac | Gen:Heur.VIZ.8 | Gen:Variant.Zusy.346759
+TACHYON | null | null
+VBA32 | Hoax.Foreign | null
+Malwarebytes | Trojan.FakeAlert.RGenX | Trojan.Agent.ED
+Panda | Trj/Resdec.HEU" | Generic Suspicious
+Zoner | null | null
+ESET-NOD32 | a variant of Win32/Kryptik.BBVL | a variant of Win32/Injector.BVET
+TrendMicro-HouseCall | TROJ_RANSOM.SMMA | TROJ_FORUCON.BME
+Rising | Trojan.Agent!1.69AD (CLOUD) | Dropper.Generic!8.35E (CLOUD)
+Yandex | Trojan.Foreign!wxrnt4VWj/o | rojan.GenAsa!nSx1VdElcg
+Ikarus | Trojan.Win32.FakeAV | Trojan.Win32.Crypt
+MaxSecure | null | null
+Fortinet | W32/FakeAV.SE!tr | W32/FORUCON.BME!tr
+Webroot | null | W32.Ctblocker
+AVG | Win32:LockScreen-YI [Trj] | Win32:Malware-gen
+Cybereason | malicious.18066b | malicious.ad93d1
+Avast | Win32:LockScreen-YI [Trj] | Win32:Malware-gen
+Qihoo-360 | Win32/Ransom.Urausy.HgAASQkA | Win32/Ransom.TorrentLocker.HwoCEpsA
 
 
 
