@@ -150,8 +150,52 @@ ClamAV | Win.Ransomware.Generickdz-9652427-0 |
 Kaspersky | HEUR:Trojan.Win32.Generic | 
 BitDefender | Gen:Heur.VIZ.8 |
 NANO-Antivirus | Trojan.Win32.Winlock.bxpxlz |
-SUPERAntiSpyware | Trojan.Agent/Gen-Urausy" | 
-
+SUPERAntiSpyware | Trojan.Agent/Gen-Urausy | 
+Tencent | Win32.Trojan.Generic.Kf | 
+Ad-Aware | Gen:Heur.VIZ.8 | 
+Sophos | Mal/Generic-R + Troj/Agent-ABXG | 
+Comodo | TrojWare.Win32.Kryptik.BCDZ@4xptxy |
+F-Secure | null |
+DrWeb | Trojan.Winlock.8128 | 
+VIPRE | rojan.Win32.FakeAV.ka (v) |
+TrendMicro | TROJ_RANSOM.SMMA | 
+McAfee-GW-Edition | Fake-SecTool!0019AC218066 |
+CMC | null | 
+Emsisoft | Gen:Heur.VIZ.8 (B) | 
+SentinelOne | null |
+GData | Gen:Heur.VIZ.8 | 
+Jiangmin | Trojan/Generic.awvch |
+eGambit | Generic.Malware |
+Avira | TR/Kryptik.10240021 |
+MAX | malware (ai score=100) |
+Antiy-AVL | null | 
+Gridinsoft | null |
+Arcabit | Trojan.VIZ.8 |
+ViRobot | null |
+ZoneAlarm | null |
+Microsoft | VirTool:Win32/Obfuscator.AFQ |
+VirTool:Win32/Obfuscator.AFQ | Malicious (score: 100) |
+AhnLab-V3 | Trojan/Win32.FakeAV.R67537 | 
+Acronis | suspicious | 
+BitDefenderTheta | Gen:NN.ZexaF.34628.gqW@aWwTzjbi | 
+ALYac | Gen:Heur.VIZ.8 | 
+TACHYON | null | 
+VBA32 | Hoax.Foreign | 
+Malwarebytes | Trojan.FakeAlert.RGenX |
+Panda | Trj/Resdec.HEU" | 
+Zoner | null |
+ESET-NOD32 | a variant of Win32/Kryptik.BBVL |
+TrendMicro-HouseCall | TROJ_RANSOM.SMMA | 
+Rising | Trojan.Agent!1.69AD (CLOUD) | 
+Yandex | Trojan.Foreign!wxrnt4VWj/o | 
+Ikarus | Trojan.Win32.FakeAV |
+MaxSecure | null |
+Fortinet | W32/FakeAV.SE!tr | 
+Webroot | null |
+AVG | Win32:LockScreen-YI [Trj] |
+Cybereason | malicious.18066b | 
+Avast | Win32:LockScreen-YI [Trj] |
+Qihoo-360 | Win32/Ransom.Urausy.HgAASQkA |
 
 
 
